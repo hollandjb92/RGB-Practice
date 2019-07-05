@@ -2,6 +2,12 @@ body {
   background-color: #232323;
 }
 
+h1 {
+  color: white;
+}
+
+
+
 .square {
   width: 30%;
   background: purple;
@@ -15,7 +21,9 @@ body {
   margin: 0 auto;
 }
 
-
-h1 {
-  color: white;
+#stripe {
+  height: 30px;
+  background-color: #fff;
+  text-align: center;
+  color: #000
 }
